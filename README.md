@@ -1,4 +1,8 @@
-# Availability Check Service
+# Validator Service & CLI
+[![Go](https://img.shields.io/badge/Go-1.18-blue.svg)](https://golang.org)
+[![build](https://github.com/arttet/validator-service/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/arttet/validator-service/actions/workflows/build.yml)
+[![tests](https://github.com/arttet/validator-service/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/arttet/validator-service/actions/workflows/tests.yml)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/arttet/validator-service/blob/main/LICENSE)
 
 ## Apply SQL migrations only
 
