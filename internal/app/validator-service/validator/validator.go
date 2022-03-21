@@ -61,7 +61,6 @@ func getStatus(check *model.Check) *model.Check {
 		if i == 2 {
 			if status[0] == status[1] {
 				decisionIndex = 1
-				break
 			} else {
 				decisionIndex = 2
 			}
